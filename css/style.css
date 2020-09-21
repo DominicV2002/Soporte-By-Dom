@@ -1,0 +1,48 @@
+
+  body:before{
+    position: absolute;
+    content: "";
+width: 1347px;
+height: 500px;
+
+background: linear-gradient(rgb(46, 214, 88)  63%, rgb(209, 208, 208));
+opacity: 0.5;
+}
+
+
+
+.nav-link:hover{
+    margin-top: -2px;
+    border-bottom: 1px solid  white;
+ 
+}
+
+h1{
+    font-size: 18px;
+    color: white;
+    font-style: unset;
+}
+.navbar .fa{
+color: rgb(255, 255, 255);
+}
+h2{
+    font-size: 18px;
+    color: white;
+    font-style: unset;
+}
+
+.parte{
+    height: 170px;
+    background-color: rgba(255, 255, 255, 0.897);
+}
+footer1{
+    position: absolute;
+     background-color: rgb(0, 0, 0);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+     width: 1349px;
+     margin-top: 151px;
+     height: 100px;
+     left: -01px;
+ }
