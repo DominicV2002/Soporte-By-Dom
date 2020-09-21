@@ -1,0 +1,95 @@
+html,
+    body,
+    header,
+    .view {
+      height: 80%;
+    }
+    
+    
+    .nav-link:hover{
+        margin-top: -2px;
+        border-bottom: 1px solid  white;
+     
+    }
+    h1{
+        font-size: 18px;
+        color: white;
+        font-style: unset;
+    }
+    .navbar .fa{
+    color: rgb(255, 255, 255);
+    }
+    h2{
+        font-size: 18px;
+        color: white;
+        font-style: unset;
+    }
+    h22{
+        color: black;
+        font-size: 25px;
+    }
+    h23{
+        margin-top: -100px;
+        }
+        footer1{
+            position: absolute;
+             background-color: rgb(0, 0, 0);
+             background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: 100% 100%;
+             width: 1349px;
+             margin-top: 151px;
+             height: 100px;
+             left: -01px;
+         }
+     footer{
+         background-color: black;
+     }    
+
+     body{
+         background-color: rgba(109, 108, 108, 0.788);
+     }
+
+     h3{
+         color: white;
+         font-size: 25px;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     }
+     h4{
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         color: black;
+         font-size: 30px;
+     }
+     
+     .sec{
+        width: 1347px;
+        height: 500px;    
+      
+background: linear-gradient(rgb(255, 255, 255)  83%, rgb(0, 0, 0));
+     }
+     h5{
+         color: white;
+     }
+     @keyframes change{
+         
+         0%{
+             background-position: 0 50%;
+         }
+         50%{
+             background-position: 100% 50%;
+         }
+         100%{
+            background-position: 0% 50%;
+         } 
+     }
+     footer1{
+        position: absolute;
+         background-color: rgb(0, 0, 0);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-size: 100% 100%;
+         width: 1349px;
+         margin-top: 13px;
+         height: 200px;
+         left: -01px;
+     }

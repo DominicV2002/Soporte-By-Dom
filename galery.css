@@ -1,0 +1,90 @@
+.swiper-container {
+    width: 600px;
+    height: 300px;
+}
+h4{
+    color: black;
+}
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+    float: left;
+    width: 25%;
+    max-width: 100%; } }
+    
+    .carousel-multi-item-2 .card img {
+    border-radius: 2px; }
+    .view {
+        background-image: url("domm2.PNG");
+        background-repeat: no-repeat center center;
+          background-size: cover;
+      }
+      @media (min-width: 768px) {
+          .view {
+              overflow: visible;
+              margin-top: 0px;
+          }
+      }
+      .navbar {
+        z-index: 1;
+    }
+    
+    html,
+    body,
+    header,
+    .view {
+      height: 80%;
+    }
+    
+    
+    .nav-link:hover{
+        margin-top: -2px;
+        border-bottom: 1px solid  white;
+     
+    }
+    h1{
+        font-size: 18px;
+        color: rgb(255, 255, 255);
+        font-style: unset;
+    }
+    .navbar .fa{
+    color: rgb(255, 255, 255);
+    }
+    h2{
+        font-size: 18px;
+        color: white;
+        font-style: unset;
+    }
+    h22{
+        color: black;
+        font-size: 25px;
+    }
+    h23{
+        margin-top: -100px;
+        }
+        footer1{
+            position: absolute;
+             background-color: rgb(0, 0, 0);
+             background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: 100% 100%;
+             width: 1349px;
+             margin-top: 151px;
+             height: 100px;
+             left: -01px;
+         }
+     section{
+         background-color: black;
+     }    
+
+
+
+     
+     body:before{
+        position: absolute;
+        content: "";
+width: 1347px;
+height: 600px;
+
+background: linear-gradient(rgb(109, 117, 113)  63%, rgb(0, 0, 0));
+opacity: 0.1;
+    }
