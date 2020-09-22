@@ -154,3 +154,15 @@ h23{
     }
     
   }
+  .centarpdf{
+    display: flex;
+    text-align: center;
+  
+  }
+  .pdf{
+    margin: 0 auto;
+    margin-top: 20px;
+    
+    width: 80%;
+    height: 900px;
+  }
